@@ -90,6 +90,7 @@
         <item>@string/font_skoda</item>
         <item>@string/font_larabie</item>
         <item>@string/font_ford</item>
+	<item>@string/font_ev</item>
     </string-array>
 
     <string-array name="fontValues">
@@ -103,6 +104,7 @@
         <item>skoda</item>
         <item>larabie</item>
         <item>ford</item>
+	<item>ev</item>
     </string-array>
 
     <string-array name="FontThumbs">
@@ -116,6 +118,7 @@
         <item>@drawable/ic_font_skoda</item>
         <item>@drawable/ic_font_larabie</item>
         <item>@drawable/ic_font_ford</item>
+	<item>@drawable/ic_font_ev</item>
     </string-array>
 
     <integer-array name="icons">
@@ -289,6 +292,7 @@
         <item>@drawable/thumb_background_incar_beetle</item>
         <item>@drawable/thumb_background_incar_dots</item>
         <item>@drawable/thumb_background_incar_aa</item>
+	<item>@drawable/thumb_background_incar_ev</item>
         <item>@drawable/thumb_background_incar_test</item>
         <item>@drawable/thumb_background_incar_test</item>
     </array>
@@ -314,6 +318,7 @@
         <item>@string/bg_beetle</item>
         <item>@string/bg_dots</item>
         <item>@string/bg_aa</item>
+	<item>@string/bg_ev</item>
         <item>@string/bg_test</item>
         <item>@string/bg_test</item>
     </string-array>
@@ -339,6 +344,7 @@
         <item>background_incar_beetle</item>
         <item>background_incar_dots</item>
         <item>background_incar_aa</item>
+	<item>background_incar_ev</item>
         <item>background_incar_test</item>
         <item>background_incar_test_small</item>
     </array>

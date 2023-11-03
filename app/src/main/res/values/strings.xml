@@ -57,6 +57,7 @@
     <string name="font_vw" translatable="false">Volkswagen CarUI</string>
     <string name="font_vw2" translatable="false">Volkswagen Thesis</string>
     <string name="font_vw3" translatable="false">VW Digit</string>
+    <string name="font_ev" translatable="false">Electro Vehicle</string>
 
     <string name="pref_appearance">Appearance</string>
     <string name="pref_centerclock">Center gauges</string>
@@ -111,6 +112,7 @@
     <string name="font_ford" translatable="false">United Sans</string>
     <string name="bg_dots">Dots</string>
     <string name="bg_aa">Android Auto</string>
+    <string name="bg_ev">Electro Vehicle</string>
 
 
     <string name="item_details_go_back">Go Back</string>
