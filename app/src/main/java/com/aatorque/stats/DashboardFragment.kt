@@ -301,6 +301,7 @@ open class DashboardFragment : CarFragment() {
             "skoda" -> R.font.skoda
             "larabie" -> R.font.larabie
             "ford" -> R.font.unitedsans
+	    "ev" -> R.font.ev
             else -> R.font.digital
         }
         val typeface = ResourcesCompat.getFont(requireContext(), font)!!
